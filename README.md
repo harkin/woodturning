@@ -1,0 +1,1 @@
+Making a sphere is one of the hardest things to do in woodturning. This app gives some simple steps to follow that will let you make a sphere of any diameter!
